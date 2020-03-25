@@ -1,3 +1,6 @@
 Laranja
 preto
 cinza
+//Como configurar o browser
+WebDriver driver;
+System.setProperty("webdriver.chrome.driver")
